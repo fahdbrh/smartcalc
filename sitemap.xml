@@ -5,25 +5,25 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
   <loc>
-    https://yourwebsite.com/
+    https://smartcalc-kappa.vercel.app/
   </loc>
 </url>
 
 <url>
   <loc>
-    https://yourwebsite.com/calculators/bmi.html
+    https://smartcalc-kappa.vercel.app/calculators/bmi.html
   </loc>
 </url>
 
 <url>
   <loc>
-    https://yourwebsite.com/calculators/age.html
+    https://smartcalc-kappa.vercel.app/calculators/age.html
   </loc>
 </url>
 
 <url>
   <loc>
-    https://yourwebsite.com/calculators/water.html
+    https://smartcalc-kappa.vercel.app/calculators/water.html
   </loc>
 </url>
 

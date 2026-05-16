@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link
+  rel="icon"
+  href="../favicon.png"
+/>
+
+    <meta
+  name="description"
+  content="Free online smart calculators for students, fitness and daily life."
+/>
+
+<meta
+  name="keywords"
+  content="BMI Calculator, Age Calculator, Water Calculator"
+/>
+
+<meta
+  name="author"
+  content="SmartCalc"
+/>
+
+  <meta charset="UTF-8"/>
+
+  <meta
+    name="viewport"
+    content="width=device-width,
+    initial-scale=1.0"
+  />
+
+  <title>
+    BMI Calculator
+  </title>
+
+  <link
+    rel="stylesheet"
+    href="../style.css"
+  />
+
+</head>
+
+<body>
+
+<section class="hero">
+
+  <h1>
+    BMI Calculator
+  </h1>
+
+</section>
+
+<section class="cards">
+
+  <div class="card">
+
+    <input
+      type="number"
+      id="weight"
+      placeholder="Weight (kg)"
+    />
+
+    <input
+      type="number"
+      id="height"
+      placeholder="Height (cm)"
+    />
+
+    <button onclick="calculateBMI()">
+
+      Calculate
+
+    </button>
+
+    <div
+      id="result"
+      class="result"
+    ></div>
+
+  </div>
+
+</section>
+
+<script
+  src="../js/bmi.js"
+></script>
+
+</body>
+</html>
